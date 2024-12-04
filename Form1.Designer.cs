@@ -157,7 +157,7 @@ namespace ComputerGraphics1
             this.labelOX.Name = "labelOX";
             this.labelOX.Size = new System.Drawing.Size(20, 22);
             this.labelOX.TabIndex = 1;
-            this.labelOX.Text = "X";
+            this.labelOX.Text = "";
             // 
             // labelOY
             // 
@@ -168,7 +168,7 @@ namespace ComputerGraphics1
             this.labelOY.Name = "labelOY";
             this.labelOY.Size = new System.Drawing.Size(20, 22);
             this.labelOY.TabIndex = 1;
-            this.labelOY.Text = "Y";
+            this.labelOY.Text = "";
             // 
             // labelOZ
             // 
@@ -179,7 +179,7 @@ namespace ComputerGraphics1
             this.labelOZ.Name = "labelOZ";
             this.labelOZ.Size = new System.Drawing.Size(20, 22);
             this.labelOZ.TabIndex = 1;
-            this.labelOZ.Text = "Z";
+            this.labelOZ.Text = "";
             // 
             // Form1
             // 
